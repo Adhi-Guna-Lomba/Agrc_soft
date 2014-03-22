@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/arrow-down.png</file>
+        <file>icons/R.png</file>
+        <file>icons/penalty5.png</file>
+        <file>icons/penalty10.png</file>
+        <file>icons/traffic.png</file>
+    </qresource>
+</RCC>
